@@ -1,3 +1,4 @@
-#bts {
-    color: rgb(37, 40, 66);
+@charset "UTF-8";
+div.center{
+    text-align:center;
 }
